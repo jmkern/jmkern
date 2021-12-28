@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jmkern
+- 👀 I’m interested in Food, Techno, and Web3
+- 🌱 I’m currently learning Solidity
